@@ -29,8 +29,4 @@ The goal of the repository is to provide an implementation of DeepSeparator and 
 3. code/predict.py for checking the EEG artifact removal performance
 
 
-### Results
 
-![image](https://github.com/JesseYule/DeepSeparator/blob/main/result/EEG_time_course_test.jpg)
-
-![EEG_time_course_test](result/EEG_time_course_test.png)
