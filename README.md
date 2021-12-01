@@ -31,4 +31,4 @@ The goal of the repository is to provide an implementation of DeepSeparator and 
 
 ### Results
 
-![image](result/EEG_time_course_test.png)
+![image](https://github.com/JesseYule/DeepSeparator/blob/main/result/EEG_time_course_test.png?raw=true)
